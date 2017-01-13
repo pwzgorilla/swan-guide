@@ -2,9 +2,8 @@
 
 | 配置项 |  说明 | 默认值 |
 | :---   | :----: | ----: |
-| config-file | 配置文件路径 | ./config.json |
-| cluster | xxx | xxxx |
-| mesos-master | mesos master地址 | 127.0.0.1:5050 |
+| cluster-addrs | xxx | xxxx |
+| zk-path | zookeeper地址 | zk://127.0.0.1:2181/mesos |
 | log-level | 日志级别，取值debug/info/error | info |
 | raftid | | |
 | raft-cluster | | |

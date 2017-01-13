@@ -19,7 +19,9 @@
 * [多集群搜索的设计和实现](multiple-cluster/README.md)
 * [Event功能的设计实现](event/README.md)
 * [一容器一IP原理](fixed-ip/README.md)
-* [应用状态机](fsm/app.md)
-* [Slot状态机](fsm/slot.md)
+* [应用状态](fsm/app.md)
+* Slot状态
+    * [状态](slot/state.md)
+    * [状态机](slot/fsm.md)
 * [名词解释](explain/README.md)
 

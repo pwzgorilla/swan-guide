@@ -2,14 +2,12 @@
 
 #### 下载源码
 ```
-# mkdir -p /usr/local/go/src/Dataman-Cloud 
-# cd $_
-# git clone https://github.com/Dataman-Cloud/swan.git
+# go get github.com/Dataman-Cloud/swan
 ```
 
 #### 编译
 ```
-# cd swan
+# cd /usr/local/go/src/Dataman-Cloud/swan 
 # make
 ```
 编译成功后的二进制可执行文件位于`./bin/swan`.
